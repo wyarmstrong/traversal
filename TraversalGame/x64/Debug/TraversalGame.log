@@ -1,0 +1,6 @@
+﻿  Main.c
+C:\Users\wyatt\traversal\TraversalGame\Main.c(19,46): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\wyatt\traversal\TraversalGame\Main.c(19,46): warning C4024: 'SumTwoIntegers': different types for formal and actual parameter 1
+C:\Users\wyatt\traversal\TraversalGame\Main.c(19,55): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\wyatt\traversal\TraversalGame\Main.c(19,55): warning C4024: 'SumTwoIntegers': different types for formal and actual parameter 2
+  TraversalGame.vcxproj -> C:\Users\wyatt\traversal\TraversalGame\x64\Debug\TraversalGame.exe
